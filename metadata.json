@@ -1,0 +1,7 @@
+{
+  "name": "PGX Live Sales Agent",
+  "description": "A conversational AI sales agent for PGX Agency tailored for the Egyptian market, utilizing Gemini 2.5 Live API for real-time voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
